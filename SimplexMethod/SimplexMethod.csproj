@@ -120,6 +120,8 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Resources\FatecLogoScreenshot2020-12-06163207.png" />
+    <Content Include="Resources\Interface-Screenshot-2020-12-06 175142.png" />
+    <Content Include="Resources\MainWindow-Screenshot-2020-12-06 175203.png" />
   </ItemGroup>
   <ItemGroup>
     <BootstrapperPackage Include=".NETFramework,Version=v4.5.2">
