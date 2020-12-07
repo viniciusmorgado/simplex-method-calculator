@@ -1,6 +1,10 @@
 # Simplex Method Calculator
 Simplex method calculator build with Windows Forms and .NET Framework for classes in linear programming and operational research.
 
+### Introduction to Simplex algorithm
+
+Simplex method is a mathematical optimization method for solving a different range of perfomance and optimization problems using maximization and minimization to find the optima point a linear calculation.
+
 ## Startup interface
 
 <img src="https://github.com/viniciusmorgado/simplex-method-calculator/blob/renameOfficial/SimplexMethod/Resources/Interface-Screenshot-2020-12-06%20175142.png"></img>
@@ -16,3 +20,7 @@ Simplex method calculator build with Windows Forms and .NET Framework for classe
 
 ### Back-end:
 * [.NET Core with C#](https://dotnet.microsoft.com/) - Open source, cross-platform Microsoft Framework.
+
+## Conclusion
+
+This project will be delivery in 07/12/2020 after this date this repository will be archived.
