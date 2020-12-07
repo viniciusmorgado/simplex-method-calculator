@@ -1,5 +1,5 @@
 # Simplex Method Calculator
-Simplex method calculator build with Windows Forms and .NET Framework for classes in linear programming and operational research;
+Simplex method calculator build with Windows Forms and .NET Framework for classes in linear programming and operational research.
 
 ## Startup interface
 
